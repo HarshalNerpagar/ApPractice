@@ -4,7 +4,7 @@ npm install<br>
 npx prisma init<br>
 copy pasting<br>
 .env - Database URL<br>
-npx prisma genrate<br>
+npx prisma generate<br>
 
 npx prisma migrate dev<br>nvm install v20.18.0
 
